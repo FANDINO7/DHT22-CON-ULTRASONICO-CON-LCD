@@ -79,3 +79,9 @@ lcd.clear();
 
 
 ![](https://github.com/FANDINO7/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/DISTANCIA.png?raw=true)
+
+
+
+**HUMEDAD**
+
+![]()

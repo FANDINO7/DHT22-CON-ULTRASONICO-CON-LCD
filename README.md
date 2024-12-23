@@ -84,4 +84,8 @@ lcd.clear();
 
 **HUMEDAD**
 
-![]()
+![](https://github.com/FANDINO7/DHT22-CON-ULTRASONICO-CON-LCD/blob/main/SENSOR%20ULTRASONICO%20CON%20DHT22%20Y%20LCD%20RESULTADO%20DE%20HUMEDAD.png?raw=true)
+
+
+**realizado poR**
+ALBERTO FANDIÑO 

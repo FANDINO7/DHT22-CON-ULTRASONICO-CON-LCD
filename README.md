@@ -72,3 +72,8 @@ lcd.clear();
 }
 
 ```
+
+**RESULTADOS**
+
+**DISTANCIA**
+![]()
